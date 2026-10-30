@@ -1,0 +1,14 @@
+request_id	collection_id	submitted_day	record_age_days	legal_hold	requester
+DR-1001	CL-A1	14	400	NONE	curator
+DR-1002	CL-A1	11	364	NONE	curator
+DR-1003	CL-A1	12	500	HOLD	curator
+DR-1004	CL-B2	8	90	NONE	archive
+DR-1005	CL-B2	7	89	NONE	archive
+DR-1006	CL-C3	2	800	NONE	analyst
+DR-1007	CL-C3	3	730	HOLD	analyst
+DR-1001	CL-B2	9	200	NONE	archive
+DR-1008	CL-Z9	4	100	NONE	archive
+DR-1009	CL-B2	04	100	NONE	archive
+DR-1010	CL-C3	5	800	PAUSE	analyst
+DR-1011	CL-C3	6	800	NONE	
+malformed	CL-A1	1	500	NONE
